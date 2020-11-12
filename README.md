@@ -1,7 +1,7 @@
 # AppRestaurante
 Este app está em desenvolvimento e será uma Aplicação móvel para comandas de restaurantes
 
-<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/master/imagens/restaurante.gif" alt="mobile"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/restaurante.gif" alt="mobile"  height="500" width="300">
 
 # Ambiente de Desenvolvimento 
  O programa foi desenvolvido utilizando:
