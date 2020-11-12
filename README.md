@@ -21,4 +21,4 @@ Este app está em desenvolvimento e será uma Aplicação móvel para comandas d
 <img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/mesas.png" alt="mesas"  height="500" width="300">
 <img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/opcoes.png" alt="opcoes"  height="500" width="300">
 <img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/categorias.png" alt="categorias"  height="500" width="300">
-<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/pedidos.png" alt="pedidos"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/pedido.png" alt="pedidos"  height="500" width="300">
