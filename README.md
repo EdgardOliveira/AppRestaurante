@@ -17,8 +17,8 @@ Este app está em desenvolvimento e será uma Aplicação móvel para comandas d
 	
 	
 # Telas
-![AppRestaurante](https://github.com/EdgardOliveira/AppRestaurante/blob/master/imagens/principal.png)
-
-![AppRestaurante](https://github.com/EdgardOliveira/AppRestaurante/blob/master/imagens/mesas.png)
-
-![AppRestaurante](https://github.com/EdgardOliveira/AppRestaurante/blob/master/imagens/opcoes.png)
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/principal.png" alt="principal"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/mesas.png" alt="mesas"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/opcoes.png" alt="opcoes"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/categorias.png" alt="categorias"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/AppRestaurante/blob/main/imagens/pedidos.png" alt="pedidos"  height="500" width="300">
